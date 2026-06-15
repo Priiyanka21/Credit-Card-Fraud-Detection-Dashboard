@@ -1,6 +1,7 @@
 Credit Card Fraud Detection Analysis
 
 📌 Project Overview
+
 This project focuses on analyzing credit card transaction data to identify fraudulent activities and uncover patterns that can help detect fraud efficiently.
 
 🎯 Objective
@@ -35,7 +36,11 @@ Bar/Column Chart
 Line Chart
 Treemap
 Filters/Slicers for interactive analysis
+
 📂 Dataset
+
 The dataset contains anonymized credit card transaction records, including transaction details and fraud labels.
+
 🚀 Conclusion
+
 This project helps identify suspicious transaction patterns and provides insights that can be used to improve fraud detection strategies.
